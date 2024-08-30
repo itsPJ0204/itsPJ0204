@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsPJ0204)](https://github.com/itsPJ0204/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itspj0204" alt="itspj0204" /></a> </p>
 
-- 🔭 I’m currently working on **Crest**
+- 🔭 I’m currently working on **Crest (Music Streaming Application where users can connect and chat with people having similar music interest)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I have completed a course on **Data Structures and Algorithms**
+
+- 🌲I have worked on a project **Virtual Herbal Garden** website, named **JadiButi** where users can interact with 3d plant models along with their AR and VR views. The website also has a virtual tour where users can roam around in a forest and discover herbal plants.
+
+- 📄I have created an **Aadhaar Verifier** where users can upload the pdf/jpg/png of their aadhaar card and it will show if the uploaded document is a valid aadhaar card or not and extract informations like Name, DOB and Aadhaar Number.  
 
 - 📫 How to reach me **piyushj0204@gmail.com**
 
